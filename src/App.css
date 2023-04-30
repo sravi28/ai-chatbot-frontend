@@ -1,0 +1,51 @@
+.App-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
+  gap: 8px;
+  color: rgb(5, 5, 5);
+  background-color: rgb(42, 107, 107);
+}
+
+.phone {
+  justify-content: center;
+  margin-left: 140px;
+}
+
+.otp-title {
+  margin-left: 18px;
+}
+
+.phone-title {
+  margin-left: 50px;
+}
+
+.btn-otp {
+  margin-top: 15px;
+  margin-left: 90px;
+  padding: 10px;
+  background-color: #009dff;
+  border: solid 1px #009dff;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.drop {
+  margin-top: 15px;
+}
+
+.Otp-submit-btn {
+  margin-top: 15px;
+  margin-left: 90px;
+  padding: 10px;
+  background-color: #009dff;
+  border: solid 1px #009dff;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: 0.3s;
+}
