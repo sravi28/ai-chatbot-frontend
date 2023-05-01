@@ -84,7 +84,7 @@ function App() {
 
   return (
     <div className="main-container">
-      {!isUser ? (
+      {isUser ? (
         <div className="app">
           <BrowserRouter>
             <Routes>
